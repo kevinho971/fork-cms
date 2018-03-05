@@ -1,0 +1,4 @@
+services:
+    fork.validator.url:
+        class: ForkCMS\Bundle\CoreBundle\Validator\UrlValidator
+        public: true
